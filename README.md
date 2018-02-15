@@ -1,6 +1,6 @@
 example-base
 [![Travis Status](https://travis-ci.org/crate-ci/example-base.svg?branch=master)](https://travis-ci.org/crate-ci/example-base)
-[![Appveyor Status](https://ci.appveyor.com/api/projects/status/n1nqaitd5uja8tsi/branch/master?svg=true)](https://ci.appveyor.com/project/johannhof/example-base/branch/master)
+[![Appveyor Status](https://ci.appveyor.com/api/projects/status/8w3m1awufpjyvpbo/branch/master?svg=true)](https://ci.appveyor.com/project/epage/example-base/branch/master)
 [![Dependency Status](https://dependencyci.com/github/crate-ci/example-base/badge)](https://dependencyci.com/github/crate-ci/example-base)
 ===========
 
