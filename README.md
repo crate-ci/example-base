@@ -1,4 +1,8 @@
-example-base [![Travis Status](https://travis-ci.org/crate-ci/example-base.svg?branch=master)](https://travis-ci.org/crate-ci/example-base) [![Appveyor Status](https://ci.appveyor.com/api/projects/status/n1nqaitd5uja8tsi/branch/master?svg=true)](https://ci.appveyor.com/project/johannhof/example-base/branch/master) [![Crates Status](https://img.shields.io/crates/v/liquid.svg)](https://crates.io/crates/liquid) [![Coverage Status](https://coveralls.io/repos/github/crate-ci/example-base/badge.svg?branch=master)](https://coveralls.io/github/crate-ci/example-base?branch=master) [![Dependency Status](https://dependencyci.com/github/crate-ci/example-base/badge)](https://dependencyci.com/github/crate-ci/example-base)
+example-base
+[![Travis Status](https://travis-ci.org/crate-ci/example-base.svg?branch=master)](https://travis-ci.org/crate-ci/example-base)
+[![Appveyor Status](https://ci.appveyor.com/api/projects/status/n1nqaitd5uja8tsi/branch/master?svg=true)](https://ci.appveyor.com/project/johannhof/example-base/branch/master)
+[![Dependency Status](https://dependencyci.com/github/crate-ci/example-base/badge)](https://dependencyci.com/github/crate-ci/example-base)
+
 ===========
 
 ## Features
