@@ -1,0 +1,6 @@
+[package]
+name = "example-base"
+version = "0.1.0"
+authors = ["Ed Page <eopage@byu.net>"]
+
+[dependencies]

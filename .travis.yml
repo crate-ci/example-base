@@ -1,0 +1,18 @@
+sudo: false
+language: rust
+rust:
+- 1.21.0  # Two releases back
+- stable
+- beta
+- nightly
+
+install:
+- rustc -Vv
+- cargo -V
+
+script:
+- cargo check --verbose
+- cargo test --verbose
+
+cache:
+  cargo: true
