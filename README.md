@@ -19,7 +19,6 @@ Note: this repo is configured to build on a schedule to prevent it from going st
 
 - Your crate must be hosted on GitHub (free).
 - A [Travis CI](https://travis-ci.org/) account (free).
-- An [AppVeyor](https://www.appveyor.com/) account (free).
 
 ## License
 
