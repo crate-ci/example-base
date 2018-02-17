@@ -11,6 +11,9 @@ example-base
 - For every PR, check if the tests pass
 - Supports Windows and Linux
 
+Note: this repo is configured to build on a schedule to prevent it from going stale
+- TravisCI: Once a month unless there was a build in the last 24 hours
+- Appveyor: Once a month: `0 0 1 * *`
 
 ## Requirements
 
