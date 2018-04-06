@@ -11,7 +11,6 @@ install:
 - cargo -V
 
 script:
-- cargo check --verbose
 - cargo test --verbose
 
 cache:
